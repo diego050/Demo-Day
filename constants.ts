@@ -151,6 +151,6 @@ export const PROJECTS: ProjectType[] = [
       { name: 'Gian Franco Dávila', title: 'COO & Co-founder', imageUrl: '/founders/nos/gianfranco.jpg', linkedinUrl: 'https://www.linkedin.com/in/gian-franco-d%C3%A1vila/', description: '' },    
     ],
     imageUrl: '/visual/visual_nos.png',
-    pdfUrl: '',
+    pdfUrl: 'https://docsend.com/v/xfnhg/nos_deck_aug25',
   },
 ];
